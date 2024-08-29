@@ -1,0 +1,3 @@
+ismtp
+Test for SMTP user enumeration (RCPT TO and VRFY), internal spoofing, and relay.
+https://www.kali.org/tools/ismtp/
